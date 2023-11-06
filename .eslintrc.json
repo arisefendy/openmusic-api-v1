@@ -16,7 +16,11 @@
     "operator-linebreak": "off",
     "object-curly-newline": "off",
     "import/no-extraneous-dependencies": "off",
+<<<<<<< HEAD
     "newline-per-chained-call": "off",
     "comma-dangle": "off"
+=======
+    "newline-per-chained-call": "off"
+>>>>>>> 0054f8ccfc58f3fe38b26eea3aa862b47a458c4f
   }
 }
